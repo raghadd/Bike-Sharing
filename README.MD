@@ -1,6 +1,6 @@
 # Bike Sharing System
 
-Analysing the patterns in a bike sharing system in wshington D.C.
+Analysing the patterns in a bike sharing system in Washington D.C.
 
 Code is based on the analaysis of the following users in Kaggle:
   * gravitymhxy2.g4
